@@ -3,7 +3,7 @@
  * Plugin Name: فردوسی | Ferdowsi
  * Description: بومی‌سازی کامل وردپرس و ووکامرس برای فارسی‌زبانان — تاریخ شمسی، فونت محلی، OTP موبایل، پیامک سفارش، فاکتور، درگاه زرین‌پال و بیت‌پی و بسیاری امکانات دیگر.
  * Version:     3.0.0
- * Author:      Ferdowsi Team
+ * Author:      Kaveh Tofighi
  * Text Domain: ferdowsi
  * Requires at least: 5.8
  * Requires PHP: 7.4
